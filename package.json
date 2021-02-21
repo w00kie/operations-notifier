@@ -30,21 +30,21 @@
     "node": ">=8.6.0"
   },
   "dependencies": {
-    "axios": "0.19.2",
+    "axios": "0.21.1",
     "body-parser": "^1.19.0",
-    "cross-env": "^7.0.0",
     "cors": "^2.8.5",
+    "cross-env": "^7.0.3",
     "express": "^4.17.1",
-    "mongoose": "^5.9.1",
-    "stellar-sdk": "^4.0.0",
+    "mongoose": "^5.11.17",
+    "stellar-sdk": "^8.0.0",
     "throttleit": "^1.0.0",
-    "uuid": "^3.4.0"
+    "uuid": "^8.3.2"
   },
   "devDependencies": {
-    "chai": "^4.2.0",
+    "chai": "^4.3.0",
     "chai-http": "^4.3.0",
-    "mocha": "^7.0.1",
-    "morgan": "^1.9.1",
-    "sinon": "^8.1.1"
+    "mocha": "^8.3.0",
+    "morgan": "^1.10.0",
+    "sinon": "^9.2.4"
   }
 }
